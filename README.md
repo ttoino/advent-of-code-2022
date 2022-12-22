@@ -22,14 +22,14 @@ Puzzle descriptions and inputs are provided.
 - [Day 12](day12) ★★
 - [Day 13](day13) ★★
 - [Day 14](day14) ★★
-- [Day 15](day15) 
-- [Day 16](day16) 
-- [Day 17](day17) 
-- [Day 18](day18) 
-- [Day 19](day19) 
-- [Day 20](day20) 
-- [Day 21](day21) 
-- [Day 22](day22) 
-- [Day 23](day23) 
-- [Day 24](day24) 
-- [Day 25](day25) 
+- [Day 15](day15) ★★
+- [Day 16](day16) ☆☆
+- [Day 17](day17) ☆☆
+- [Day 18](day18) ☆☆
+- [Day 19](day19) ☆☆
+- [Day 20](day20) ☆☆
+- [Day 21](day21) ☆☆
+- [Day 22](day22) ☆☆
+- [Day 23](day23) ☆☆
+- [Day 24](day24) ☆☆
+- [Day 25](day25) ☆☆
